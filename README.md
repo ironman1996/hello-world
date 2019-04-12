@@ -1,4 +1,5 @@
 # hello-world
-my first reposito
+my first repository
 i just try to use github
-fhafs
+@littlecay
+github is so funny
